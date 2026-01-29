@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevOps & Full Stack Engineering Portfolio
 
 A professionally structured repository showcasing hands-on implementations in full stack development and DevOps engineering, organized chronologically and maintained with production-grade version control practices.
@@ -151,3 +152,6 @@ Hall Ticket No: **2303A52330**
 ## Notes
 
 This repository serves as a comprehensive engineering portfolio, reflecting iterative development, structured problem-solving, and practical implementation of modern full stack and DevOps concepts.
+=======
+# DevOps & Full Stack Lab Work
+>>>>>>> 3827d5e (Updated)
